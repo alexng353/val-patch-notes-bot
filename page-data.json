@@ -1,0 +1,2426 @@
+{
+  "componentChunkName": "component---src-page-templates-categories-tsx",
+  "path": "/en-us/news/game-updates/",
+  "result": {
+    "data": {
+      "locales": {
+        "edges": [
+          {
+            "node": {
+              "ns": "home",
+              "data": "{\"agentSpecialAbilities.headline\":\"Special Abilities\",\"agentSpecialAbilities.tagline.0\":\"Defy the\",\"agentSpecialAbilities.tagline.1\":\"limits\",\"agents.biographyLabel\":\"Biography\",\"agents.dropdownPlaceholder\":\"Select an agent\",\"agents.introDetail\":\"Riot Games presents a new competitive stage for you to shine from. A 5v5 character-based tactical shooter where creativity is your greatest weapon.\",\"agents.introTitle\":\"Lorem Ipsum\",\"agents.roleLabel\":\"Role\",\"download.cta.label\":\"Download\",\"download.cta.link\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\",\"download.description\":\"Look, you’re probably here because either you clicked on that tiny little link at the bottom of the website that says “DOWNLOAD THE GAME,” or you found this page through a search engine. Either way, you still need to be given access to play - you just need to take a few more steps:\",\"download.go\":\"Go there.\",\"download.incompatibleDevice\":\"You're viewing this on an unsupported device. You can still download <a href='{1}'>here</a>, but it may not work.\",\"download.rightHere\":\"Those steps are right here.\",\"download.title\":\"Download the game\",\"email.confirmation\":\"Done, you’ll hear from us when we’re ready!\",\"email.enter.cta\":\"Send email\",\"email.enter.title\":\"Sign up for all VALORANT updates\",\"email.error\":\"The address you’ve entered is invalid. Please enter a valid email.\",\"email.intro.cta\":\"Enter your email\",\"email.intro.title\":\"Sign up for all VALORANT updates\",\"faqs.title\":\"Frequently asked questions\",\"general.noElements\":\"Check back soon!\",\"general.scrollDown.0\":\"Scroll down\",\"general.scrollDown.1\":\"to see more\",\"general.type\":\"types\",\"general.viewGallery\":\"View gallery\",\"head.page.description\":\"Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast\",\"head.page.title\":\"VALORANT: Riot Games’ competitive 5v5 character-based tactical shooter\",\"intro.cta.desktop.href\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\",\"intro.cta.desktop.label\":\"PLAY FREE\",\"intro.cta.mobile.href\":\"#\",\"intro.cta.mobile.label\":\"PLAY FREE\",\"intro.description\":\"A 5v5 character-based tactical shooter\",\"intro.subtitle\":\"Summer 2020\",\"intro.title\":\"VALORANT\",\"join.description\":\"Want in on the VALORANT Closed Beta? Get a Riot account, link it with a Twitch account, and watch streams for a chance to get in\",\"join.title\":\"Be the first\",\"leaderboards.actCopy\":\"Act\",\"leaderboards.activeCopy\":\"Ongoing\",\"leaderboards.gamesWonCopy\":\"Games Won\",\"leaderboards.inactiveCopy\":\"Ended\",\"leaderboards.input.errorMessage\":\"Incorrect name or currently not on leaderboard\",\"leaderboards.input.label\":\"Search Leaderboards\",\"leaderboards.input.placeholder\":\"Playername#Tagline\",\"leaderboards.leaderboardCopy\":\"Leaderboard\",\"leaderboards.loginCopy\":\"Log In to View Rank\",\"leaderboards.minimumThresholdCopy\":\"Minimum threshold\",\"leaderboards.pageCopy\":\"Page\",\"leaderboards.rankCopy\":\"Rank\",\"leaderboards.rankedRatingCopy\":\"RR\",\"leaderboards.ratingCopy\":\"Rating\",\"leaderboards.title\":\"Valorant Leaderboards\",\"leaderboards.topCopy.immortal\":\"Immortal 1\",\"leaderboards.topCopy.immortal2\":\"Immortal 2\",\"leaderboards.topCopy.immortal3\":\"Immortal 3\",\"leaderboards.topCopy.radiant\":\"Radiant\",\"leaderboards.topCopyDropdown.immortal\":\"Immortal 1\",\"leaderboards.topCopyDropdown.immortal2\":\"Immortal 2\",\"leaderboards.topCopyDropdown.immortal3\":\"Immortal 3\",\"leaderboards.topCopyDropdown.radiant\":\"Radiant\",\"maps.cta.label\":\"View all maps\",\"maps.description\":\"Each map is a playground to showcase your creative thinking. Purpose-built for team strategies, spectacular plays, and clutch moments.  Make the play others will imitate for years to come.\",\"maps.subtitle\":\"Fight around the world\",\"maps.tagline.0\":\"Defy the\",\"maps.tagline.1\":\"limits\",\"maps.title\":\"YOUR MAPS\",\"media.categoryAll\":\"All\",\"media.dropdownAll\":\"All\",\"media.dropdownSelect\":\"Select\",\"mediaGalleryOverview.description\":\"Here’s what we think it takes for you to trust a game enough to invest: 128-tick servers, at least 30 frames per.\",\"mediaGalleryOverview.imageUrl\":\"/assets/images/news-detail-hero-background.jpg\",\"mediaGalleryOverview.title\":\"Media\",\"mediaModal.assetType\":\"Asset type:\",\"mediaModal.downloadTitle\":\"Download\",\"mediaModal.fileSize\":\"File size:\",\"news.backToList\":\"Go to article list\",\"news.featuredNews\":\"Featured News\",\"news.loginAlchemerCopy\":\"Log in to view poll\",\"news.previousNews\":\"News\",\"news.seeArticle\":\"See Article\",\"news.tagline.0\":\"We are\",\"news.tagline.1\":\"VALORANT\",\"noPageFound.goToHomepageCopy\":\"Go to homepage\",\"noPageFound.subtitle\":\"Re-fill your ammo and try it again\",\"noPageFound.title.0\":\"Sorry\",\"noPageFound.title.1\":\"page not found\",\"overview.0.beginnerGuide\":\"https://playvalorant.com/en-sg/news/announcements/beginners-guide/\",\"overview.0.cta.label\":\"LEARN THE GAME\",\"overview.0.description\":\"Blend your style and experience on a global, competitive stage. You have 13 rounds to attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll need to think faster than your opponent if you want to survive. Take on foes across Competitive and Unranked modes as well as Deathmatch and Spike Rush.\",\"overview.0.description2\":\"Creativity is your greatest weapon.\",\"overview.0.description3\":\"Watch the gameplay trailer here.\",\"overview.0.disclaimer\":\"\",\"overview.0.gameplayVideo\":\"https://www.youtube.com/embed/tBaNXXqRg7M?autoplay=1&mute=0&rel=0&modestbranding=1\",\"overview.0.gameplayVideoTag\":\"Gameplay\",\"overview.0.subtitle\":\"DEFY THE LIMITS\",\"overview.0.tagline.0\":\"VLRT PR0T0C0L\",\"overview.0.tagline.1\":\"MR0C - SWD - BR4\",\"overview.0.title\":\"WE ARE VALORANT\",\"overview.0.type\":\"gunplay\",\"overview.1.cta.label\":\"View all agents\",\"overview.1.description\":\"More than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. No two Agents play alike, just as no two highlight reels will look the same.\",\"overview.1.subtitle\":\"CREATIVITY IS YOUR GREATEST WEAPON.\",\"overview.1.tagline.0\":\"Defy the\",\"overview.1.tagline.1\":\"limits\",\"overview.1.title\":\"YOUR AGENTS\",\"overview.1.type\":\"agents\",\"paperClips.backgroundText.0\":\"We are\",\"paperClips.backgroundText.1\":\"waiting\",\"paperClips.tagline.0\":\"Defy the\",\"paperClips.tagline.1\":\"limits\",\"paperClips.title\":\"Related content\",\"seasonUpdates.cta.label\":\"ACT I OVERVIEW\",\"seasonUpdates.cta.url\":\"https://playvalorant.com/en-sg/news/game-updates/what-s-new-in-valorant-episode-4-act-i/\",\"seasonUpdates.description\":\"EPISODE_4//ACT I//YR 2\",\"seasonUpdates.subtitle\":\"DISRUPTION\",\"seasonUpdates.title\":\"VALORANT\",\"sectionNavigation.faqs\":\"FAQ\",\"sectionNavigation.hero\":\"VALORANT\",\"sectionNavigation.overview\":\"Game overview\",\"sectionNavigation.social\":\"Social\",\"sectionNavigation.status\":\"Check your status\",\"signUp.0.cta.0.label\":\"Make one\",\"signUp.0.cta.0.text\":\"I don’t have a Riot account yet\",\"signUp.0.cta.1.label\":\"Sign in\",\"signUp.0.cta.1.text\":\"I have a Riot account\",\"signUp.0.description\":\"A 5v5 character-based tactical shooter\",\"signUp.0.title\":\"Get set up to play\",\"signUp.1.cta.0.label\":\"Check your status\",\"signUp.1.cta.0.text\":\"Am I in the beta?\",\"signUp.1.description\":\"A 5v5 character-based tactical shooter\",\"signUp.1.title.0\":\"Almost there!\",\"signUp.1.title.1\":\"Hi\",\"social.findUs\":\"Find us on\",\"social.subtitle.0\":\"Follow us across the internet and we’ll give you all the right information.\",\"social.tagline.0\":\"Defy the\",\"social.tagline.1\":\"limits\",\"social.title\":\"Stay connected to us\",\"specs.heroDescription\":\"Here’s what we think it takes for you to trust a game enough to invest: 128-tick servers, at least 30 frames per.\",\"specs.requirementsBackgroundText.0\":\"Require\",\"specs.requirementsBackgroundText.1\":\"ments\",\"statusCheck.backgroundText\":\"In beta?\",\"statusCheck.headline.grantedCopy\":\"You're in\",\"statusCheck.headline.pendingCopy\":\"Not yet\",\"statusCheck.steps.0.cta.href\":\"https://www.twitch.tv/settings/connections#riot-connection\",\"statusCheck.steps.0.cta.label\":\"Link accounts\",\"statusCheck.steps.0.stepHeadline\":\"01. Connect your riot account with twitch\",\"statusCheck.steps.0.stepSubCopy.0\":\"We’re giving access through Twitch, so make sure you link your Riot account with your Twitch account (also: register for a Twitch account if you don’t have one)\",\"statusCheck.steps.1.cta.href\":\"https://www.twitch.tv/directory/game/VALORANT?tl=c2542d6d-cd10-4532-919b-3d19f30a768b\",\"statusCheck.steps.1.cta.label\":\"Watch\",\"statusCheck.steps.1.stepHeadline\":\"02. Watch VALORANT streams\",\"statusCheck.steps.1.stepSubCopy.0\":\"Once you’ve linked accounts, watch any VALORANT streams with the \\\"Drops Enabled\\\" tag by clicking the button above starting on April 7th while logged in on Twitch for a opportunity to get access to Closed Beta\",\"statusCheck.steps.2.cta.href\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\",\"statusCheck.steps.2.cta.label\":\"Download\",\"statusCheck.steps.2.stepHeadline\":\"03. Download and play\",\"statusCheck.steps.2.stepSubCopy.0\":\"After your first installation, you’ll need to reboot your computer to install our anti-cheat software, Riot Vanguard\",\"statusCheck.subCopy.grantedSubCopy\":\"Download Now and Start Playing\",\"statusCheck.subCopy.pendingSubCopy\":\"Follow these steps!\",\"statusCheck.tagline.0\":\"We are\",\"statusCheck.tagline.1\":\"VALORANT\",\"verifyAge.labels.continue\":\"CONTINUE\",\"verifyAge.labels.day\":\"DAY\",\"verifyAge.labels.month\":\"MONTH\",\"verifyAge.labels.year\":\"YEAR\",\"verifyAge.notAllowed\":\"You are not allowed to download this content at this time.\",\"verifyAge.storageDisclaimer\":\"Date of birth is for verification purposes only and will not be stored.\",\"verifyAge.title\":\"Please verify your date of birth to continue\",\"weapons.all\":\"All weapons\",\"weapons.tagline.0\":\"Defy the\",\"weapons.tagline.1\":\"limits\",\"weapons.taglineRed.0\":\"VLRT PR0T0C0L\",\"weapons.taglineRed.1\":\"MR0C - SWD - BR4\",\"weapons.title\":\"Choose your weapon\",\"weaponsDetail.tagline.0\":\"Defy the\",\"weaponsDetail.tagline.1\":\"limits\"}",
+              "language": "en-us"
+            }
+          },
+          {
+            "node": {
+              "ns": "nested",
+              "data": "{\"agentSpecialAbilities\":{\"headline\":\"Special Abilities\",\"tagline\":[\"Defy the\",\"limits\"]},\"agents\":{\"biographyLabel\":\"Biography\",\"dropdownPlaceholder\":\"Select an agent\",\"introDetail\":\"Riot Games presents a new competitive stage for you to shine from. A 5v5 character-based tactical shooter where creativity is your greatest weapon.\",\"introTitle\":\"Lorem Ipsum\",\"roleLabel\":\"Role\"},\"download\":{\"cta\":{\"label\":\"Download\",\"link\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\"},\"description\":\"Look, you’re probably here because either you clicked on that tiny little link at the bottom of the website that says “DOWNLOAD THE GAME,” or you found this page through a search engine. Either way, you still need to be given access to play - you just need to take a few more steps:\",\"go\":\"Go there.\",\"incompatibleDevice\":\"You're viewing this on an unsupported device. You can still download <a href='{1}'>here</a>, but it may not work.\",\"rightHere\":\"Those steps are right here.\",\"title\":\"Download the game\"},\"email\":{\"confirmation\":\"Done, you’ll hear from us when we’re ready!\",\"enter\":{\"cta\":\"Send email\",\"title\":\"Sign up for all VALORANT updates\"},\"error\":\"The address you’ve entered is invalid. Please enter a valid email.\",\"intro\":{\"cta\":\"Enter your email\",\"title\":\"Sign up for all VALORANT updates\"}},\"faqs\":{\"title\":\"Frequently asked questions\"},\"general\":{\"noElements\":\"Check back soon!\",\"scrollDown\":[\"Scroll down\",\"to see more\"],\"type\":\"types\",\"viewGallery\":\"View gallery\"},\"head\":{\"page\":{\"description\":\"Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast\",\"title\":\"VALORANT: Riot Games’ competitive 5v5 character-based tactical shooter\"}},\"intro\":{\"cta\":{\"desktop\":{\"href\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\",\"label\":\"PLAY FREE\"},\"mobile\":{\"href\":\"#\",\"label\":\"PLAY FREE\"}},\"description\":\"A 5v5 character-based tactical shooter\",\"subtitle\":\"Summer 2020\",\"title\":\"VALORANT\"},\"join\":{\"description\":\"Want in on the VALORANT Closed Beta? Get a Riot account, link it with a Twitch account, and watch streams for a chance to get in\",\"title\":\"Be the first\"},\"leaderboards\":{\"actCopy\":\"Act\",\"activeCopy\":\"Ongoing\",\"gamesWonCopy\":\"Games Won\",\"inactiveCopy\":\"Ended\",\"input\":{\"errorMessage\":\"Incorrect name or currently not on leaderboard\",\"label\":\"Search Leaderboards\",\"placeholder\":\"Playername#Tagline\"},\"leaderboardCopy\":\"Leaderboard\",\"loginCopy\":\"Log In to View Rank\",\"minimumThresholdCopy\":\"Minimum threshold\",\"pageCopy\":\"Page\",\"rankCopy\":\"Rank\",\"rankedRatingCopy\":\"RR\",\"ratingCopy\":\"Rating\",\"title\":\"Valorant Leaderboards\",\"topCopy\":{\"immortal\":\"Immortal 1\",\"immortal2\":\"Immortal 2\",\"immortal3\":\"Immortal 3\",\"radiant\":\"Radiant\"},\"topCopyDropdown\":{\"immortal\":\"Immortal 1\",\"immortal2\":\"Immortal 2\",\"immortal3\":\"Immortal 3\",\"radiant\":\"Radiant\"}},\"maps\":{\"cta\":{\"label\":\"View all maps\"},\"description\":\"Each map is a playground to showcase your creative thinking. Purpose-built for team strategies, spectacular plays, and clutch moments.  Make the play others will imitate for years to come.\",\"subtitle\":\"Fight around the world\",\"tagline\":[\"Defy the\",\"limits\"],\"title\":\"YOUR MAPS\"},\"media\":{\"categoryAll\":\"All\",\"dropdownAll\":\"All\",\"dropdownSelect\":\"Select\"},\"mediaGalleryOverview\":{\"description\":\"Here’s what we think it takes for you to trust a game enough to invest: 128-tick servers, at least 30 frames per.\",\"imageUrl\":\"/assets/images/news-detail-hero-background.jpg\",\"title\":\"Media\"},\"mediaModal\":{\"assetType\":\"Asset type:\",\"downloadTitle\":\"Download\",\"fileSize\":\"File size:\"},\"news\":{\"backToList\":\"Go to article list\",\"featuredNews\":\"Featured News\",\"loginAlchemerCopy\":\"Log in to view poll\",\"previousNews\":\"News\",\"seeArticle\":\"See Article\",\"tagline\":[\"We are\",\"VALORANT\"]},\"noPageFound\":{\"goToHomepageCopy\":\"Go to homepage\",\"subtitle\":\"Re-fill your ammo and try it again\",\"title\":[\"Sorry\",\"page not found\"]},\"overview\":[{\"beginnerGuide\":\"https://playvalorant.com/en-sg/news/announcements/beginners-guide/\",\"cta\":{\"label\":\"LEARN THE GAME\"},\"description\":\"Blend your style and experience on a global, competitive stage. You have 13 rounds to attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll need to think faster than your opponent if you want to survive. Take on foes across Competitive and Unranked modes as well as Deathmatch and Spike Rush.\",\"description2\":\"Creativity is your greatest weapon.\",\"description3\":\"Watch the gameplay trailer here.\",\"disclaimer\":\"\",\"gameplayVideo\":\"https://www.youtube.com/embed/tBaNXXqRg7M?autoplay=1&mute=0&rel=0&modestbranding=1\",\"gameplayVideoTag\":\"Gameplay\",\"subtitle\":\"DEFY THE LIMITS\",\"tagline\":[\"VLRT PR0T0C0L\",\"MR0C - SWD - BR4\"],\"title\":\"WE ARE VALORANT\",\"type\":\"gunplay\"},{\"cta\":{\"label\":\"View all agents\"},\"description\":\"More than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. No two Agents play alike, just as no two highlight reels will look the same.\",\"subtitle\":\"CREATIVITY IS YOUR GREATEST WEAPON.\",\"tagline\":[\"Defy the\",\"limits\"],\"title\":\"YOUR AGENTS\",\"type\":\"agents\"}],\"paperClips\":{\"backgroundText\":[\"We are\",\"waiting\"],\"tagline\":[\"Defy the\",\"limits\"],\"title\":\"Related content\"},\"seasonUpdates\":{\"cta\":{\"label\":\"ACT I OVERVIEW\",\"url\":\"https://playvalorant.com/en-sg/news/game-updates/what-s-new-in-valorant-episode-4-act-i/\"},\"description\":\"EPISODE_4//ACT I//YR 2\",\"subtitle\":\"DISRUPTION\",\"title\":\"VALORANT\"},\"sectionNavigation\":{\"faqs\":\"FAQ\",\"hero\":\"VALORANT\",\"overview\":\"Game overview\",\"social\":\"Social\",\"status\":\"Check your status\"},\"signUp\":[{\"cta\":[{\"label\":\"Make one\",\"text\":\"I don’t have a Riot account yet\"},{\"label\":\"Sign in\",\"text\":\"I have a Riot account\"}],\"description\":\"A 5v5 character-based tactical shooter\",\"title\":\"Get set up to play\"},{\"cta\":[{\"label\":\"Check your status\",\"text\":\"Am I in the beta?\"}],\"description\":\"A 5v5 character-based tactical shooter\",\"title\":[\"Almost there!\",\"Hi\"]}],\"social\":{\"findUs\":\"Find us on\",\"subtitle\":[\"Follow us across the internet and we’ll give you all the right information.\"],\"tagline\":[\"Defy the\",\"limits\"],\"title\":\"Stay connected to us\"},\"specs\":{\"heroDescription\":\"Here’s what we think it takes for you to trust a game enough to invest: 128-tick servers, at least 30 frames per.\",\"requirementsBackgroundText\":[\"Require\",\"ments\"]},\"statusCheck\":{\"backgroundText\":\"In beta?\",\"headline\":{\"grantedCopy\":\"You're in\",\"pendingCopy\":\"Not yet\"},\"steps\":[{\"cta\":{\"href\":\"https://www.twitch.tv/settings/connections#riot-connection\",\"label\":\"Link accounts\"},\"stepHeadline\":\"01. Connect your riot account with twitch\",\"stepSubCopy\":[\"We’re giving access through Twitch, so make sure you link your Riot account with your Twitch account (also: register for a Twitch account if you don’t have one)\"]},{\"cta\":{\"href\":\"https://www.twitch.tv/directory/game/VALORANT?tl=c2542d6d-cd10-4532-919b-3d19f30a768b\",\"label\":\"Watch\"},\"stepHeadline\":\"02. Watch VALORANT streams\",\"stepSubCopy\":[\"Once you’ve linked accounts, watch any VALORANT streams with the \\\"Drops Enabled\\\" tag by clicking the button above starting on April 7th while logged in on Twitch for a opportunity to get access to Closed Beta\"]},{\"cta\":{\"href\":\"https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe\",\"label\":\"Download\"},\"stepHeadline\":\"03. Download and play\",\"stepSubCopy\":[\"After your first installation, you’ll need to reboot your computer to install our anti-cheat software, Riot Vanguard\"]}],\"subCopy\":{\"grantedSubCopy\":\"Download Now and Start Playing\",\"pendingSubCopy\":\"Follow these steps!\"},\"tagline\":[\"We are\",\"VALORANT\"]},\"verifyAge\":{\"labels\":{\"continue\":\"CONTINUE\",\"day\":\"DAY\",\"month\":\"MONTH\",\"year\":\"YEAR\"},\"notAllowed\":\"You are not allowed to download this content at this time.\",\"storageDisclaimer\":\"Date of birth is for verification purposes only and will not be stored.\",\"title\":\"Please verify your date of birth to continue\"},\"weapons\":{\"all\":\"All weapons\",\"tagline\":[\"Defy the\",\"limits\"],\"taglineRed\":[\"VLRT PR0T0C0L\",\"MR0C - SWD - BR4\"],\"title\":\"Choose your weapon\"},\"weaponsDetail\":{\"tagline\":[\"Defy the\",\"limits\"]}}",
+              "language": "en-us"
+            }
+          }
+        ]
+      },
+      "allContentstackWebsiteConfiguration": {
+        "nodes": [
+          {
+            "categoriesAndTags": {
+              "categoryTitle": "Category",
+              "tagTitle": "Tag",
+              "newsfeedCta": "SEE MORE NEWS"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {
+      "data": {
+        "title": "Game Updates",
+        "articles": [
+          {
+            "id": "56462ded-e9af-56c7-b031-7bd16f7bd8b4",
+            "uid": "blt95519f08be8a13a5",
+            "title": "What’s New in VALORANT Episode 5 Act II",
+            "description": "Join the Champions celebration in and out of the game.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-5-act-ii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6893ff851f110f97/62feea3e453b6510d6cc54d2/Valorant_2022_E5A2_Article_Banner_1920x1080_MB01.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "419945",
+              "filename": "Valorant_2022_E5A2_Article_Banner_1920x1080_MB01.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-08-23T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3ed8d474-b7ab-58d9-a15b-017a20d9d808",
+            "uid": "blt50daf8127a4d77c0",
+            "title": "YOUR MOMENT // Episode 5: Act II Kickoff - VALORANT",
+            "description": "The second act of DIMENSION is here—ready to turn some heads? Clutch like a champ with new VCT Champions 2022 cosmetics, claim some new legendary Battlepass items, and prove yourself in a fresh Ranked Act.",
+            "url": {
+              "url": "/news/game-updates/your-moment-episode-5-act-ii-kickoff-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=kBmGqb1oqsA&ab_channel=VALORANT",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfa5934c640290562/62fc342c475bae71871d689e/Valorant_2022_E5A2_KickoffTrailer_Thumbnail_1920x1080_MB01.jpg",
+              "dimension": { "height": 1008, "width": 1792 },
+              "content_type": "image/jpeg",
+              "file_size": "327497",
+              "filename": "Valorant_2022_E5A2_KickoffTrailer_Thumbnail_1920x1080_MB01.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-08-23T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "6f6821f6-f543-58ab-9082-b4b632ecdcd7",
+            "uid": "blt637bb71b5cb00248",
+            "title": "VALORANT Patch Notes 5.04",
+            "description": "Don’t forget! It’s also the start of Episode 5 Act II.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-5-04/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb0b01757f957fe46/62fedc49a0f2201007b503b9/08232022-Agent-Reyna_Killjoy-banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "309437",
+              "filename": "08232022-Agent-Reyna_Killjoy-banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-08-23T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3f54eabe-1506-584d-8207-d8248a6cf76c",
+            "uid": "bltebb8ac2dff93bf74",
+            "title": "RITUAL COMPLETE // Reaver Skinline Trailer - VALORANT",
+            "description": "Reaver’s back and bringing you some sinister new Phantom, Karambit Melee, Ghost, Spectre, and Odin skins.",
+            "url": {
+              "url": "/news/game-updates/ritual-complete-reaver-skinline-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/shorts/WLWZP6eRkiA",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd2966b538cc3dfd8/62f2c5ba145e5527a2b48a5e/REAVER_REDIRECT_THUMB.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "198141",
+              "filename": "REAVER_REDIRECT_THUMB.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-08-10T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "5c8a0171-f739-5820-b13a-a0c0bb5cce9c",
+            "uid": "blt146a736564e7dd0e",
+            "title": "VALORANT Patch Notes 5.03",
+            "description": "You want to play? Let’s play with Chamber’s balance.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-5-03/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5aee65464000114a/62ee202299dab06ebd13de8d/1920x1080-KEY-ART_opt.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "434960",
+              "filename": "1920x1080-KEY-ART_opt.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-08-09T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3a2201fb-fe9b-5701-83da-78d61dc4f0c7",
+            "uid": "bltfdcc08b18fabc7bd",
+            "title": "VALORANT Patch Notes 5.01",
+            "description": "Phoenix, KAY/O, and Yoru on on the balance beams and some updated smurf detection.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-5-01/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta875252d81b3a1a2/62bbc2e9e218a20f88ddb8d4/071222_ep5_Patch_5.01_Notes_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "420127",
+              "filename": "071222_ep5_Patch_5.01_Notes_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-07-12T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "0ed530f1-9531-5b59-83e5-90d2a6cb3084",
+            "uid": "blt4588e3001577c555",
+            "title": "DIVE IN // Episode 5: Act I Kickoff - VALORANT",
+            "description": "Dive into Pearl, VALORANT’s first Omega Earth map, alongside skins from the abyss, a brand new Battlepass, and a Ranked Act reset.",
+            "url": {
+              "url": "/news/game-updates/dive-in-episode-5-act-i-kickoff-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=le474A3jBxA",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd0bcefea94d4354f/62ad1be0a18b205191cfad2e/Episode-5-Act-1-Kickoff-Trailer_Banner_opt.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "449722",
+              "filename": "Episode-5-Act-1-Kickoff-Trailer_Banner_opt.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-06-22T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e9e25881-3931-576e-ade8-6c5332db5786",
+            "uid": "blt5728a0dcd7c0df3d",
+            "title": "What’s New in VALORANT Episode 5 Act I",
+            "description": "Submerge yourself with all that comes at the start of Episode 5.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-5-act-i/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbfc7c9242ec1e77e/62abcc105ec90f4f1bae318c/Valorant_EP5A1_Article_Banner_1920x1080_MB01.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "1580608",
+              "filename": "Valorant_EP5A1_Article_Banner_1920x1080_MB01.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-06-22T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7bf24958-8f3b-5216-b554-67ec97c36797",
+            "uid": "blt35e7e56bf2e8cf1d",
+            "title": "VALORANT Patch Notes 5.0",
+            "description": "New map, new rank, new Episode.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-5-0/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt37df624f75ae5cb5/62aa4d9892725d5bf817fcdf/1920x1080_KEY_ART_pearl.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "362082",
+              "filename": "1920x1080_KEY_ART_pearl.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-06-16T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3f764a26-d69f-589a-ab08-88298d10a23d",
+            "uid": "blt02af286fd8294928",
+            "title": "VALORANT Map Pool Changes",
+            "description": "Split is leaving the Competitive and Unrated map rotation temporarily.",
+            "url": { "url": "/news/game-updates/valorant-map-pool-changes/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt54ebae4533b52e25/62a9265a482ba357e65dbc65/Map_Rotation_Article_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "369394",
+              "filename": "Map_Rotation_Article_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-06-16T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "dd0896c7-5021-5c0a-a085-0dbc0c16c0c6",
+            "uid": "blte99843ef46db1fb5",
+            "title": "Dia do Santuário // Pearl Official Map Reveal - VALORANT",
+            "description": "Join us for Dia do Santuário–a celebration of PEARL: The wonder beneath the waves.",
+            "url": {
+              "url": "/news/game-updates/dia-do-santuario-pearl-official-map-reveal-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=Sb22sSA7oTE",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blteeecc0356518832e/62a7fe1b482ba357e65db8b2/Episode-5-Act-1-Pearl-Map-reveal-Trailer_thumbnail_2_TEXTLESS.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "258339",
+              "filename": "Episode-5-Act-1-Pearl-Map-reveal-Trailer_thumbnail_2_TEXTLESS.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-06-16T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7c010270-b839-5818-bef9-3aaaae062de2",
+            "uid": "blt0e0091dc9f69ce53",
+            "title": "VALORANT Patch Notes 4.11",
+            "description": "New “clutch mute” system and loads of Agent bug fixes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-11/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta9288c8fd8317932/62991da0ae6f0e4156d198df/Fade_Reyna_1920x1080_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "412230",
+              "filename": "Fade_Reyna_1920x1080_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-06-07T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "9daaaf52-8134-51bd-b829-37bddfe2a84b",
+            "uid": "blt82cb2539196718af",
+            "title": "VALORANT Agent Insights: Fade",
+            "description": "Nazar değmesin.",
+            "url": {
+              "url": "/news/game-updates/valorant-agent-insights-fade/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte09ed90a2e44f5a5/62990ca7df98c90faab88dbd/00_Header_fade.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "207092",
+              "filename": "00_Header_fade.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-06-06T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3bc7c726-1edf-5ad2-a2ba-df1a273e1a02",
+            "uid": "blt3aeb6c697371f2c6",
+            "title": "VALORANT Patch Notes 4.10",
+            "description": "Quality of life Agent fixes, Haven tweaks, and changes that should help VALORANT feel more consistent.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-10/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbd56386178af29d9/6286e274af7b396927edcd5a/Fade_Omen_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "465703",
+              "filename": "Fade_Omen_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-05-24T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "68682aa6-6507-5bb9-8d57-f2c0bd2c0869",
+            "uid": "blta471c8ce7c4ad526",
+            "title": "VALORANT Gameplay Consistency Update 2",
+            "description": "The VALORANT Gameplay team shares a follow up on their look into game-to-game consistency.",
+            "url": {
+              "url": "/news/game-updates/valorant-gameplay-consistency-update-2/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26f4d34eab0e9bde/6286d3d5e2c4985428881379/game_consistency_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "213663",
+              "filename": "game_consistency_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-05-24T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "8e8dae65-922b-5d77-88c8-6e4f5a782fc5",
+            "uid": "bltd1c1a3cb35f6a5a0",
+            "title": "From the Archives: The Sting Audio Logs // VALORANT",
+            "description": "Jump back in time and hear the story you may have missed around the operation to capture Fade.",
+            "url": {
+              "url": "/news/game-updates/from-the-archives-the-sting-audio-logs-valorant/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaa9f61c9e9a64091/6286bac2bde8395bd0123e9b/The_Sting_Article_Banner_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "378694",
+              "filename": "The_Sting_Article_Banner_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-05-23T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "5b83c09d-adc6-5160-bba8-3dcb4ca26d6e",
+            "uid": "blt737bedab7073c03e",
+            "title": "VALORANT Patch Notes 4.09",
+            "description": "Out of PBE and into Patch 4.09—it’s a Chamber nerf.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-09/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc2b725939864a021/627b25849dfd5f30d076ff5f/Chamb_Fade_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "529153",
+              "filename": "Chamb_Fade_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-05-10T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "b4951839-bed8-5c82-be34-c42251e9bc35",
+            "uid": "blte926c4dd9fe97973",
+            "title": "VALORANT Patch Notes 4.08",
+            "description": "Fade haunts! Also, Jett, Neon and Sova are on the workbench, and tweaks to 5-stack Rank Rating penalties.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-08/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt91d278b63f680227/6266fd3347f423681896b257/Fade_Reyna_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "413170",
+              "filename": "Fade_Reyna_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-04-27T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "de4c45cd-ff1e-5a8b-bd2a-920ddd19c221",
+            "uid": "bltcb17e8bae5af7435",
+            "title": "Fade Gameplay Reveal Trailer // VALORANT",
+            "description": "Get ready to face your fears.",
+            "url": {
+              "url": "/news/game-updates/fade-gameplay-reveal-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=UMzKD73cs3c",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt86b2df9efefb427c/625dedd2fd9afd4b1fe2fcf8/Ep4_act3_Gameplay_Reveal_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "415530",
+              "filename": "Ep4_act3_Gameplay_Reveal_banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-04-24T23:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "fbd69c77-6ce7-5ca5-9b8b-b1f0d618470c",
+            "uid": "blt609d889936511f45",
+            "title": "İYİ GECELER - Fade Agent Trailer // VALORANT",
+            "description": "Go ahead, try to hide.",
+            "url": {
+              "url": "/news/game-updates/iyi-geceler-fade-agent-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=e7VOQ1l20eo",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt84fb2b332cc19883/625de32c7e7b344b2534f91d/Fade_Trailer_Thumbnail_1_textless_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "424945",
+              "filename": "Fade_Trailer_Thumbnail_1_textless_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-04-24T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "75cf80de-3fdc-5854-88e8-f37963793bb5",
+            "uid": "blt42b0bbb7357d38e0",
+            "title": "VALORANT Jett Changes for Patch 4.08",
+            "description": "The dashes, they are a changin.",
+            "url": {
+              "url": "/news/game-updates/valorant-jett-changes-for-patch-4-08/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt909ba6b565908b76/6259e1e12777714c51b30c0a/Jett_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "336594",
+              "filename": "Jett_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-04-20T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "301ed81d-8d1d-5ead-8cde-5a0b89399342",
+            "uid": "blt86fe7b7c2ad000cc",
+            "title": "VALORANT Gameplay Consistency Update",
+            "description": "The VALORANT Gameplay team shares the latest on their look into game-to-game consistency.",
+            "url": {
+              "url": "/news/game-updates/valorant-gameplay-consistency-update/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt99a63fb9b15fc02b/6257357d0609f351d0309332/network_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "232879",
+              "filename": "network_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-04-15T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "91519a1e-12d1-5f6b-9410-589c8f62301d",
+            "uid": "blt340b922d4d387bf2",
+            "title": "VALORANT Patch Notes 4.07",
+            "description": "Bulldog and Stinger input updates, new AFK detections, and more servers.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-07/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1ee19384e1572c23/624f7cde7d552701c6366d52/Yoru_Killjoy_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "204368",
+              "filename": "Yoru_Killjoy_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-04-12T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "04cb1dc7-09fe-5bb7-a7d5-ade8cf3ae118",
+            "uid": "bltae7367cb45d2af12",
+            "title": "GO WIDE // Widejoy Mode Announcement Trailer- VALORANT",
+            "description": "Go wide, or get out.",
+            "url": {
+              "url": "/news/game-updates/go-wide-widejoy-mode-announcement-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=RgjW0-vrxuQ",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4cd77a1eecd64a9a/6244fa83d0764c0ed2c6cf7f/Valorant_2022_Fool22_banner_-1920x1080_MB03-(1).jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "423652",
+              "filename": "Valorant_2022_Fool22_banner_-1920x1080_MB03-(1).jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-04-01T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "1071e27a-6691-5279-94ff-6e2d8d5cbc0b",
+            "uid": "blt3894bce9e4064552",
+            "title": "VALORANT Patch Notes 4.05",
+            "description": "Brimmy with the stimmy is adjusted, you can import your crosshairs, and map queue updates.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-05/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7a5e1c1256cf4fe8/622998704142c3684bf53306/Brimstone_Raze_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "345057",
+              "filename": "Brimstone_Raze_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-03-22T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7f6967a0-e014-505e-b961-d7dd15b3ad73",
+            "uid": "blta4d588dfac4f0d40",
+            "title": "Deep Dive Into 4.04 Controller Agents Changes",
+            "description": "Our Controller Agents got an overhaul in Patch 4.04. Our designers walk you through the hows and whys for each.",
+            "url": {
+              "url": "/news/game-updates/deep-dive-into-4-04-controller-agents-changes/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blteb50742d13e8da0d/621fe766d83ad851e8a9dc54/EP4_Act2_1920x1080_FinalOptimized.jpg",
+              "dimension": { "height": 1024, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "411669",
+              "filename": "EP4_Act2_1920x1080_FinalOptimized.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-03-03T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "35000982-6212-5a30-b136-030b3615cd68",
+            "uid": "bltd0fdd1243d3ef197",
+            "title": "Deep Dive Into Icebox 4.04 Changes",
+            "description": "A revamp of Icebox is part of the foundational work for Episode 4 Act II.",
+            "url": {
+              "url": "/news/game-updates/deep-dive-into-icebox-4-04-changes/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt088b8632eed910b7/621e75fc89fbff50b638e5d5/1-ICEBOX_crate.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "350156",
+              "filename": "1-ICEBOX_crate.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-03-02T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3766d982-fb72-5958-8e57-7d61b7ee6862",
+            "uid": "bltadcc8405bf1fc676",
+            "title": "LET’S GO.  // Episode 4: Act II Kickoff - VALORANT",
+            "description": "Ready or not, Act II of Episode 4: DISRUPTION is here.",
+            "url": {
+              "url": "/news/game-updates/let-s-go-episode-4-act-ii-kickoff-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=rFY2sjbrCEk",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4bccd07b6a1a3291/6216c7cd2508455f9f09529f/030122_Valorant_E4A2_KickoffTrailer_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "420128",
+              "filename": "030122_Valorant_E4A2_KickoffTrailer_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-03-01T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "c35e4b21-b46f-51c3-b9b6-0da33cfb84a1",
+            "uid": "bltd4f6b78aea970e7b",
+            "title": "VALORANT Patch Notes 4.04",
+            "description": "Yoru is back, Controllers are reshaped, and Icebox gets a few walls knocked down.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-04/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5a65d7659bef8a49/62194d79c4c1b167484d2472/Omen_Yoru_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "392632",
+              "filename": "Omen_Yoru_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-03-01T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "0489564b-3c03-5b3c-9d34-cb64ac21b33a",
+            "uid": "blteda172878a2fae85",
+            "title": "VALORANT Patch Notes 4.03",
+            "description": "Last patch before Act II, and we’re already looking to improve performance, Deathmatch and Agent bugs.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-03/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt135745f090d00a57/6205aaa481d3411388eb7140/Brimstone_Raze_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "345057",
+              "filename": "Brimstone_Raze_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-02-15T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d55cad67-dc0f-550c-bb8b-5dcd51d2bf4f",
+            "uid": "bltb52942c5ec938b94",
+            "title": "VALORANT Patch Notes 4.02",
+            "description": "This performance-focused patch also targets AFK detection improvements.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-02/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt180e13a6a1219040/61f4c42f5b8f60514d374fd1/Kayo_Astra_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "257311",
+              "filename": "Kayo_Astra_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-02-01T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d2fbbb26-67ce-5291-b623-1c1a431a458d",
+            "uid": "bltbd76fadf7e1ea186",
+            "title": "Unlock the Wayfinder Shorty with Prime Gaming",
+            "description": "This article will not be visible on the playvalorant website, but will be used in the VALORANT in-client news tile to link out to the redemption page for the March Amazon Prime Drop.",
+            "url": {
+              "url": "/news/game-updates/unlock-the-wayfinder-shorty-with-prime-gaming/"
+            },
+            "external_link": "https://gaming.amazon.com/loot/valorant?ref_=SM_VS04_P1_IGP",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb738b01b6f75604e/61ef3a0eb1c6de35becb9926/PRIME_1920x1080_Wayfinder_Shorty.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "318704",
+              "filename": "PRIME_1920x1080_Wayfinder_Shorty.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-01-28T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "6d564e7d-539c-5f82-ae90-324e87c82531",
+            "uid": "blt1b30b93dc333b4bf",
+            "title": "Multi-Factor Authentication Has Arrived",
+            "description": "Protect your account and information with our new MFA system.",
+            "url": {
+              "url": "/news/game-updates/multi-factor-authentication-has-arrived/"
+            },
+            "external_link": "https://www.riotgames.com/en/news/multi-factor-authentication-has-arrived",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8d57820e2ed56301/61e712a460723673b908291c/01192022_MFA_Article_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "229617",
+              "filename": "01192022_MFA_Article_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-01-19T21:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "02764d7f-2aa7-58fa-b80c-331296acf137",
+            "uid": "blt8f67d76e08d48a9c",
+            "title": "VALORANT Patch Notes 4.01",
+            "description": "Muted Word list added, bug fixes, and updates to the Ares.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-01/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt54240895e72cd3bb/61e70d1a79b5bd5a1ef7b956/Chamber_Jett_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "287013",
+              "filename": "Chamber_Jett_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-01-19T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "157fc38a-1a58-545c-8df0-451470efe66b",
+            "uid": "bltc5736caa7d30246e",
+            "title": "What’s New in VALORANT Episode 4 Act I",
+            "description": "A quick disruption to the new year, with Act I Battlepass, Neon, and the Protocol skinline.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-4-act-i/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt11d4283548fe31ce/61d8e04bdea73a236fc56d76/Valorant_2022_Ep4Act1_OverviewArticle_Banner_1920x1080_MB01.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "314907",
+              "filename": "Valorant_2022_Ep4Act1_OverviewArticle_Banner_1920x1080_MB01.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-01-11T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7683a508-e189-5dfd-9757-d88fd52f1f78",
+            "uid": "bltfc07f765cf8a4681",
+            "title": "VALORANT Patch Notes 4.0",
+            "description": "Neon charges her way in, as well as multiple weapon changes, and reworks on Breeze and Bind.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-4-0/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5ce6cb4e146af5db/61d898337c5435387a0c009d/Neon_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "412951",
+              "filename": "Neon_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2022-01-11T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7a752461-266a-5e71-b603-78f1d979ce5c",
+            "uid": "blt1fb0393f9ed97e40",
+            "title": "Set. It. Off.  // Episode 4: Act 1 Kickoff - VALORANT",
+            "description": "Welcome to the first Act of Episode 4: DISRUPTION.",
+            "url": {
+              "url": "/news/game-updates/set-it-off-episode-4-act-1-kickoff-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=tBaNXXqRg7M",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt028e71044c989b32/61d7535675ddd613c0fa2d1c/011122_Ep4GameplayTrailer_Banner_v2.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "424105",
+              "filename": "011122_Ep4GameplayTrailer_Banner_v2.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-01-11T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "08f6b408-ddaf-51f9-8f6e-c57e42f3abe3",
+            "uid": "bltf3af757feafe105a",
+            "title": "Spark - Neon Agent Trailer // VALORANT",
+            "description": "Neon, VALORANT’s newest Manila-born Agent, touches down with Episode 4: Disruption.",
+            "url": {
+              "url": "/news/game-updates/spark-neon-agent-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=dtx8CgjRmqE",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40ac0503fb2e2051/61d3a6c5c9ed2d27fb5a0464/010522_NeonTrailer_Banner_v3.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "428646",
+              "filename": "010522_NeonTrailer_Banner_v3.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2022-01-06T01:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "2a7dcf80-f3ab-5364-99d4-9b069d13b749",
+            "uid": "blt5d885ab51e6c65b8",
+            "title": "Unlock the Bruno Coin Spray with Prime Gaming",
+            "description": "This article will not be visible on the playvalorant website, but will be used in the VALORANT in-client news tile to link out to the redemption page for the March Amazon Prime Drop.",
+            "url": {
+              "url": "/news/game-updates/unlock-the-bruno-coin-spray-with-prime-gaming/"
+            },
+            "external_link": "https://gaming.amazon.com/loot/valorant?ref_=SM_VS3_P10_IGP",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaacf3753e768cd3d/61b3ff30f2c59775f0a56888/PRIME_1920x1080_Brunocoin_valhomepage.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "434692",
+              "filename": "PRIME_1920x1080_Brunocoin_valhomepage.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-12-29T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "b91975e5-fe26-5511-8777-a8be83db4c61",
+            "uid": "blte462a26248ef1647",
+            "title": "VALORANT Patch Notes 3.12",
+            "description": "Agent-specific keybinds. That is all.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-12/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt264f6252ebf080ca/61a962d812a3a82185f97a38/Chamber_Skye_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "439316",
+              "filename": "Chamber_Skye_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-12-07T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "9d34df41-5a6e-5aa0-86e6-b92db7fb7e4f",
+            "uid": "bltf8edb2587732263f",
+            "title": "VALORANT Game and Network Instability Basics",
+            "description": "We’re here to help you understand those instability icons you may see from time to time.",
+            "url": {
+              "url": "/news/game-updates/valorant-game-and-network-instability-basics/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5878d802eafd4f33/61a66b5d12a3a82185f971d0/network_indicators_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "213663",
+              "filename": "network_indicators_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-12-02T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "5d55e5b6-a274-5e5c-85bc-8a911d88aa4a",
+            "uid": "blt9b8ab86f9c649d03",
+            "title": "VALORANT Patch Notes 3.10",
+            "description": "Chamber arrives, updated Esports features, and the 5-stack returns to the Competitive queue.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-10/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3c74f8c7d9684593/618f6766fd0d2917d8cfc789/Chamber_Article_Banner_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "474782",
+              "filename": "Chamber_Article_Banner_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-11-16T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e33ae599-4688-537a-935a-0f72ff9fb419",
+            "uid": "blteffda6b2d44e86a0",
+            "title": "New Undercity Nights missions on RiotxArcane.com",
+            "description": "The World of RiotX Arcane heads towards its conclusion with new missions and in-game rewards.",
+            "url": {
+              "url": "/news/game-updates/new-undercity-nights-missions-on-riotxarcane-com/"
+            },
+            "external_link": "https://riotxarcane.riotgames.com/",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte418047151078c45/618d9e54fb61e4021ad339ec/UCN_Promo_v2.jpg",
+              "dimension": { "height": 720, "width": 1280 },
+              "content_type": "image/jpeg",
+              "file_size": "179600",
+              "filename": "UCN_Promo_v2.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-11-15T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "2bab175d-01d1-5821-af42-5300c402cc43",
+            "uid": "bltfd2d52fe3ccd1f3f",
+            "title": "Progress Days missions on RiotxArcane.com are live",
+            "description": "The World of RiotX Arcane is changing. Visit new districts, complete missions & get in-game rewards.",
+            "url": {
+              "url": "/news/game-updates/progress-days-missions-on-riotxarcane-com-are-live/"
+            },
+            "external_link": "https://riotxarcane.riotgames.com/",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdff9d4e6bd456c8c/6185f881a1ce11650a8d39d2/League_district_thumbnail_day5.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "327653",
+              "filename": "League_district_thumbnail_day5.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-11-09T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "f10235df-7863-5b49-b75c-66448ee22734",
+            "uid": "blt42b9bd732d8606b0",
+            "title": "VALORANT Patch Notes 3.09",
+            "description": "The new Act brings changes to the Classic, Fracture, and more features for Observers.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-09/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltca0dbf131630beb1/617b859a38150b1072a1d9a7/Astra_Cypher_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "248543",
+              "filename": "Astra_Cypher_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-11-02T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "1469927d-1541-5ddc-9320-6693307e88e1",
+            "uid": "blt02e03a019764117a",
+            "title": "VALORANT Episode 3 Act III Agent Delay",
+            "description": "Some news about the timing of our next Agent release.",
+            "url": {
+              "url": "/news/game-updates/valorant-episode-3-act-iii-agent-delay/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7e44b3d97aca8cdc/6179de4c2378d322b0633e16/10282021-Chamber-delay-ArticleBanner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "245249",
+              "filename": "10282021-Chamber-delay-ArticleBanner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-10-28T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "ea8dc1fc-bd12-5dec-97d1-7cbb72a1f5f3",
+            "uid": "blt6af0d2469c845f6c",
+            "title": "Unlock the Flames in my Veins Spray with Prime Gaming",
+            "description": "This article will not be visible on the playvalorant website, but will be used in the VALORANT in-client news tile to link out to the redemption page for the March Amazon Prime Drop.",
+            "url": {
+              "url": "/news/game-updates/unlock-the-flames-in-my-veins-spray-with-prime-gaming/"
+            },
+            "external_link": "https://gaming.amazon.com/loot/valorant?ref_=SM_VS3_P8_IGP",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4b910d3d4468a8c6/617360e677dfa05a8cacff62/PRIME_1920x1080_FlameVeins_valhomepage.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "453391",
+              "filename": "PRIME_1920x1080_FlameVeins_valhomepage.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-10-26T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "759ca04f-3e82-56db-8323-cfd2805d57fc",
+            "uid": "blt349fad1a8692531e",
+            "title": "The Origins of VALORANT’s Nunca Olvidados",
+            "description": "Join Sammi Pedregon as she opens the book on the life of the Día de los Muertos-inspired weapon skins.",
+            "url": {
+              "url": "/news/game-updates/the-origins-of-valorant-s-nunca-olvidados/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt40c30173874a1812/616f602ffd37c069473afad3/Val_Banner_NuncaOlvidados_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "375249",
+              "filename": "Val_Banner_NuncaOlvidados_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-10-21T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "dc010892-7f27-5f8d-a160-4c1eb57cc26f",
+            "uid": "blt4372a4112645a100",
+            "title": "VALORANT Patch Notes 3.08",
+            "description": "There is no balance, only Zuul.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-08/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd493351b09931576/616a213f63aa5d04fc455984/Astra_Yoru_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "244953",
+              "filename": "Astra_Yoru_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-10-19T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "ec07ed17-24cf-550f-ace6-4320462bf5e9",
+            "uid": "bltf625b622025ca4e4",
+            "title": "VALORANT Anti-cheat: Fall 2021 Update",
+            "description": "Anti-cheat team brings the updates on cheaters in VALORANT Episode 3.",
+            "url": {
+              "url": "/news/game-updates/valorant-anti-cheat-fall-2021-update/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltaaa96a84fc4b567e/616732287c52211d10e31599/Val_Banner_AntiCheat_Fall2021_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "307193",
+              "filename": "Val_Banner_AntiCheat_Fall2021_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-10-18T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "b8641c69-9e9a-5de4-9b90-2f0dbc067f89",
+            "uid": "blt9185994759b507bc",
+            "title": "VALORANT Patch Notes 3.07",
+            "description": "Quality of Life changes for Viper and Jett, a beta rollout of a new setting for device input, and more.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-07/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte4827b2ffb9fae0e/615648d5e289fa55888ece7e/Yoru_Killjoy_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "204368",
+              "filename": "Yoru_Killjoy_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-10-05T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "dcd8800b-44d2-550c-9619-2e272dcec2be",
+            "uid": "blte65c237ca6aa4a7c",
+            "title": "Unlock the Just Business Spray with Prime Gaming",
+            "description": ".",
+            "url": {
+              "url": "/news/game-updates/unlock-the-just-business-spray-with-prime-gaming/"
+            },
+            "external_link": "https://gaming.amazon.com/loot/valorant?ref_=SM_VS3_P7_IGP",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt109332336d7e9e76/614e1dad0332d478b9d32179/PRIME_1920x1080_VALCADEMY_valhomepage_(1).jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "161284",
+              "filename": "PRIME_1920x1080_VALCADEMY_valhomepage_(1).jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-09-27T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "38a9f6e1-272b-548a-baa1-728650b0f052",
+            "uid": "blt8d576916520de9ea",
+            "title": "VALORANT Patch Notes 3.06",
+            "description": "KAY/O, Skye, and Jett are on the balance block. Five maps get some stronger crates for safer planting.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-06/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7129f3c39301ece2/61453642f725af79f53fc987/9212021_PatchNotes3.06_Kayo_Astra_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "257311",
+              "filename": "9212021_PatchNotes3.06_Kayo_Astra_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-09-21T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "a765af12-f737-5c17-8ba2-1c5feb6658f5",
+            "uid": "blte057c81e5ac1645b",
+            "title": "Turn up the Pressure // New VALORANT Act Kickoff Trailer",
+            "description": "Turn up the pressure during Episode 3 Act II. Catch a glimpse at what’s in store with this kickoff trailer.",
+            "url": {
+              "url": "/news/game-updates/turn-up-the-pressure-new-valorant-act-kickoff-trailer/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=jKlksJ1dQXo",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0480f0a7046c4e56/612fd6fa8faa7a6bbfbfe5fc/Ep3_ActII_Gameplay_Trailer_Thumbnail_Final_notext.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "457809",
+              "filename": "Ep3_ActII_Gameplay_Trailer_Thumbnail_Final_notext.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-09-08T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "6689931c-5b43-5a5a-b3ee-8eec267ca579",
+            "uid": "blte3cdd0a98d5937c9",
+            "title": "VALORANT Patch Notes 3.05",
+            "description": "Episode 3 Act 2 goes live! Ability damage updates for three Agents, Rank distribution tweaks, and new Bonus XP.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-05/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb90008464d16799d/61325bf89db95e7ff74b68d7/Article_Banner_Patchnotes305-Web.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "486720",
+              "filename": "Article_Banner_Patchnotes305-Web.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-09-08T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "aff40f58-c9e4-5534-bcd3-7c6e5bd34b4b",
+            "uid": "blt4a3a12ae3c37d738",
+            "title": "What’s New in VALORANT Episode 3 Act II",
+            "description": "This Act brings our seventh map, a first-time skin collab, and another Battlepass collection to cop.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-3-act-ii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt962a6518612d78db/6131a93da9655d098c7cd8f0/09082021-Episode-3-Act-II-Overview-Article-Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "289550",
+              "filename": "09082021-Episode-3-Act-II-Overview-Article-Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-09-08T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "c43c760d-2f3f-5f68-ab47-3d465646ff00",
+            "uid": "blt4140bcd940235cb4",
+            "title": "Uncover Fracture // Official Map Teaser - VALORANT",
+            "description": "Explore a world divided on Fracture, a new VALORANT map coming in Reflection, Act II.",
+            "url": {
+              "url": "/news/game-updates/uncover-fracture-official-map-teaser-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=2CR4Wy8dKrY",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8029e429cd82567d/6129ab436768907ea97679aa/090121_Ep3ActIIFractureTease_Banner_v3.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "431828",
+              "filename": "090121_Ep3ActIIFractureTease_Banner_v3.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-09-01T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d2d484a8-e62c-5465-8a61-30d58e1212ad",
+            "uid": "blt3e509d36f57106ef",
+            "title": "VALORANT Patch Notes 3.04",
+            "description": "This patch makes it easier on observers, updating a number of esports features and gameplay tech updates.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-04/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt10c47503fb385120/611efbda4dd2c76eddbbcd91/08242021-Patch-notes-3-04-Kayo_Astra_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "257311",
+              "filename": "08242021-Patch-notes-3-04-Kayo_Astra_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-08-24T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "313e123d-1611-539d-9c2f-20b156907430",
+            "uid": "blt1e5843ae7e6b8675",
+            "title": "Regional Price Changes and Global Bonus Currency",
+            "description": "We’re updating pricing in some regions on September 8th.",
+            "url": {
+              "url": "/news/game-updates/regional-price-changes-and-global-bonus-currency/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfe41d25ac8f537c5/61132f93f57b2f35921c67d0/081621-Price-change-Banner.jpeg",
+              "dimension": { "height": 1621, "width": 2880 },
+              "content_type": "image/jpeg",
+              "file_size": "157145",
+              "filename": "081621-Price-change-Banner.jpeg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-08-23T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d4c83613-0159-5ec2-93b8-145b341bfc2f",
+            "uid": "blt84a44abe3eb5ee70",
+            "title": "VALORANT Patch Notes 3.03",
+            "description": "A big Viper bug fix, new crosshair settings, and network updates.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-03/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt178268259f8a7c6f/60ff4881bf34702dbca366b5/Yoru_Killjoy_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "204368",
+              "filename": "Yoru_Killjoy_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-08-10T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "33f17c14-5deb-5e34-8a63-c8153822237c",
+            "uid": "bltba705309c4fa1494",
+            "title": "VALORANT Patch Notes 3.02",
+            "description": "More bug fixes as we continue to evaluate the hefty Patch 3.0 changes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-02/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt43183a2ea9c209a2/60f0cc5616291c305a36bb4b/Astra_Cypher_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "257653",
+              "filename": "Astra_Cypher_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-07-20T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "a71a2cb1-01aa-586a-b3f5-7d96ed95bbf3",
+            "uid": "blta924d6835e76290c",
+            "title": "VALORANT Patch Notes 3.01",
+            "description": "As the 3.0 dust settles, our devs do some bug clean up.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-01/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7797de55995c01c4/60de68061558ad558221a16d/Kayo_Brim_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "331876",
+              "filename": "Kayo_Brim_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-07-07T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "06cfbc30-34f7-5a40-9911-0ee34dc72755",
+            "uid": "blt9001bb0b5617a8e6",
+            "title": "Unlock the Nice Smile Gun Buddy with Prime Gaming",
+            "description": "Unlock the Nice Smile Gun Buddy with Prime Gaming",
+            "url": {
+              "url": "/news/game-updates/unlock-the-nice-smile-gun-buddy-with-prime-gaming/"
+            },
+            "external_link": "https://gaming.amazon.com/loot/valorant?ref_=SM_VS3_P4_IGP",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2916838cf77e3505/60d24806d78f9d375f082c4d/PRIME_1920x1080_Mask_valhomepage.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "394155",
+              "filename": "PRIME_1920x1080_Mask_valhomepage.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-06-25T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "16fcfa05-c020-5962-97da-118a54949a02",
+            "uid": "blt21d83fc71236db87",
+            "title": "VALORANT Patch Notes 3.0",
+            "description": "Pretty much everything gets a change or two. Agents, Weapons, Competitive, performance—it just keeps going.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-3-0/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt031f4e12a9c9e342/60cd2c23eefdde56c1145282/Kayo_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "272624",
+              "filename": "Kayo_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-06-22T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "245d26d8-2778-5423-a568-e81ae7b007c7",
+            "uid": "blt72b70d2472950a98",
+            "title": "VALORANT Account Leveling Explained",
+            "description": "A new way to track and display your time playing VALORANT.",
+            "url": {
+              "url": "/news/game-updates/valorant-account-leveling-explained/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltff5714d49bd3c061/60ca6bd01e0505677a881271/Account_Leveling_Val_1920_1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "387105",
+              "filename": "Account_Leveling_Val_1920_1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-06-22T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "55c13034-252a-59ea-bd1c-75f36352d3a9",
+            "uid": "blta264f100c7b6b368",
+            "title": "What’s New in VALORANT Episode 3 Act I",
+            "description": "KAY/O arrives, two Battlepasses, Account Leveling, and more YR1 events.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-3-act-i/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt86cd8572a30911aa/60cbfdb00ece0255888d895a/V_Ep_03_REFLECTION_Article-Header.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "308120",
+              "filename": "V_Ep_03_REFLECTION_Article-Header.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-06-22T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d21dba7a-e5e0-57b7-b47e-8c9c540bbaa0",
+            "uid": "blt843a30c0fded8f4b",
+            "title": "KAY/O Agent Reveal Trailer - VALORANT",
+            "description": "Shut down your opponents with robotic precision when VALORANT’s newest agent, KAY/O, boots up with Episode 3.",
+            "url": {
+              "url": "/news/game-updates/kay-o-agent-reveal-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=eU1l7eBy2_Y",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt046f7b69264e7620/60c94b48eefdde56c1143b17/KAYO-TRAILER-Article-Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "292591",
+              "filename": "KAYO-TRAILER-Article-Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-06-17T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "7b9f3db8-a87e-5b96-bac5-f9eb77fb2696",
+            "uid": "blt534027228d52157f",
+            "title": "VALORANT Patch Notes 2.11",
+            "description": "The calm before the Episode 3 storm. Some bug and performance updates.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-11/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8369ebcd66d1c005/60b979021666081987865db3/Reyna_Sova_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "363019",
+              "filename": "Reyna_Sova_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-06-08T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "23a97724-0dd3-5492-b2cb-52f6d28e6ade",
+            "uid": "blt09c949cbc9bc7cc7",
+            "title": "UPDATE ON VALORANT MODES ROTATION",
+            "description": "Our Modes producer is here to update you on where Modes is headed after Escalation.",
+            "url": {
+              "url": "/news/game-updates/update-on-valorant-modes-rotation/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt988f5cc829c4e57b/60a58e284ac76a5c4fb1cbf5/ModesRotation_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "244472",
+              "filename": "ModesRotation_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-05-21T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "bf56b8cd-1994-58b2-b0db-3209cac207f6",
+            "uid": "blt38afeff3bbffae29",
+            "title": "VALORANT Patch Notes 2.09",
+            "description": "Viper’s instant decay is nerfed, tactical timeouts for custom games, and Replication game mode goes live.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-09/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5692c149f77152c6/605d3414cc77b20f047aac1e/Jett_Viper_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "335640",
+              "filename": "Jett_Viper_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-05-11T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d6e5c1dd-e74c-581a-96ab-5d17ddfa1e4c",
+            "uid": "bltc36d0c37cf3b7fd2",
+            "title": "NEW VALORANT MODE: REPLICATION",
+            "description": "Pick one Agent for all your tactical needs in Replication, the new VALORANT game mode.",
+            "url": {
+              "url": "/news/game-updates/new-valorant-mode-replication/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2e2711fc631c998f/609479e6f6a831100b5e0433/REPLICATION_Article_Banner_Optimized.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "482343",
+              "filename": "REPLICATION_Article_Banner_Optimized.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-05-11T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "b9be2558-5e58-50ae-9bf1-4632648a6233",
+            "uid": "blt73912b20a4399287",
+            "title": "Updating the Privacy Notice and Terms of Service",
+            "description": "We’re updating our player policies to implement a global refund policy and improve our behavior systems around voice chat.",
+            "url": {
+              "url": "/news/announcements/updating-the-privacy-notice-and-terms-of-service/"
+            },
+            "external_link": "https://www.riotgames.com/en/news/updating-the-privacy-notice-and-terms-of-service",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt364bea1e4506aa1c/6089cea72d1d221032192eab/4_30_2021_TOSVoiceEvalUpdatesRedirect_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "354210",
+              "filename": "4_30_2021_TOSVoiceEvalUpdatesRedirect_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-04-30T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "78669c2e-f2c5-55f2-a0b7-0e96c8d1593c",
+            "uid": "bltc866597751aba85d",
+            "title": "What’s New in VALORANT Episode 2 Act III",
+            "description": "Reach for Radiant horizons on our new map Breeze, collect exclusive content in the latest Battlepass, and more.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-2-act-iii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte1d83d7a603f5101/6080a0b3ea92433fc513895e/4_27_2021_WhatsNewinEp2A3Article_Ep2a3_Article_Header_1920x1080_.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "426705",
+              "filename": "4_27_2021_WhatsNewinEp2A3Article_Ep2a3_Article_Header_1920x1080_.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-04-27T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "afbded66-77bd-5178-95e9-1b1bfb744eba",
+            "uid": "blt60d6cbbd3ca794a1",
+            "title": "VALORANT Patch Notes 2.08",
+            "description": "Newest map Breeze and Coach slots highlight 2.08",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-08/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9834851b906877fe/6082129712dc9d3c683578ec/4_27_2021_Patch2.8Article_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "389428",
+              "filename": "4_27_2021_Patch2.8Article_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-04-27T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "442e6e1d-e1b8-5283-a708-c068f90d19aa",
+            "uid": "blt9c684baac9571b0d",
+            "title": "Breeze // Map Reveal - VALORANT",
+            "description": "Open spaces and long range engagements await on Breeze, landing in Act III.",
+            "url": { "url": "/news/game-updates/breeze-map-reveal-valorant/" },
+            "external_link": "https://www.youtube.com/watch?v=HuI3qdaL-jI",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4372a795477769ba/607f523c26fd84453c017c51/Breeze_Trailer_Redirect_Article_Banner_04232021l.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "254973",
+              "filename": "Breeze_Trailer_Redirect_Article_Banner_04232021l.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2021-04-23T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "26d97e7a-325a-5f06-bf24-ff768958445d",
+            "uid": "bltfa835f36c539ed75",
+            "title": "VALORANT Patch Notes 2.07",
+            "description": "Astra and Raze head to the shop, and an odd Viper bug gets fixed.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-07/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt85409fa388f3fc7e/606f8f652c290626b4383102/Brimstone_Raze_VAL_Patch_Notes_2-06_04132021.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "345057",
+              "filename": "Brimstone_Raze_VAL_Patch_Notes_2-06_04132021.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-04-13T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "9714488f-c241-549d-9b75-0fb2f6183036",
+            "uid": "blt8dbca4214cecbcf9",
+            "title": "VALORANT Patch Notes 33 ⅓: The Final Patch",
+            "description": "Mostly all new spring jokes.",
+            "url": {
+              "url": "/news/game-updates/valorant-patch-notes-33-the-final-patch/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdf18b69de1e44063/606369f3389f150ff9aa4437/AprilFools_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "307120",
+              "filename": "AprilFools_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-04-01T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "cb7d5949-7c0f-5dcc-a4e0-f64501cc08e2",
+            "uid": "bltafae6d079cd1470f",
+            "title": "VALORANT Patch Notes 2.06",
+            "description": "Viper and Yoru changes crank the heat. Bucky is tweaked and HRTF audio arrives.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-06/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5692c149f77152c6/605d3414cc77b20f047aac1e/Jett_Viper_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "335640",
+              "filename": "Jett_Viper_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-03-30T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "84b719cc-a6dd-5532-b499-5d127d179f2b",
+            "uid": "blt1b8e17a5e3cf11ba",
+            "title": "VALORANT Patch Notes 2.05",
+            "description": "AFK detection and penalty updates, RR penalty for dodging ranked games, and a good number of bug fixes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-05/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt84a19a54031865f8/604be6ade122b53af5513793/Patch-2-05-031621-Article-Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "363019",
+              "filename": "Patch-2-05-031621-Article-Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-03-16T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "647cd4e9-cef5-5255-836d-4694b4c8fe60",
+            "uid": "blt58930d51c9c00b1c",
+            "title": "What’s New in VALORANT Episode 2 Act II",
+            "description": "A fresh Battlepass, Astra drops in, Prime//2.0, and Competitive matchmaking updates.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-episode-2-act-ii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5131cf7031b1075e/603813e072c04c12c95644e5/Whats-New-in-VALORANT-Episode-2-Act-II-Article-Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "352798",
+              "filename": "Whats-New-in-VALORANT-Episode-2-Act-II-Article-Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-03-02T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "dfccc878-4c97-5f5f-ae4d-5be816496f62",
+            "uid": "blt30d7ebb202668517",
+            "title": "VALORANT Patch Notes 2.04",
+            "description": "Act II brings Astra, comprehensive Competitive matchmaking updates and Tactical Voice Over to help with call outs.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-04/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt43e63abedea5b86a/60398576664b723dc415ab31/Astra_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "338297",
+              "filename": "Astra_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-03-02T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "1eed4f26-c357-5218-b93c-19a756568437",
+            "uid": "blt136d4743ef4b2f79",
+            "title": "VALORANT Patch Notes 2.03",
+            "description": "Yoru gets his first balance, Stinger is overhauled, and Escalation goes live.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-03/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt396e596c7d9e499f/602701b4befc761ffff9c4e6/Yoru_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "227561",
+              "filename": "Yoru_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-02-17T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "95c27acc-8a39-571d-ab3f-92354427dced",
+            "uid": "bltd1781f12cc9dc63f",
+            "title": "NEW VALORANT MODE: ESCALATION",
+            "description": "New VALORANT game mode Escalation arrives to test your skill with various weapons and abilities.",
+            "url": {
+              "url": "/news/game-updates/new-valorant-mode-escalation/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1b41c5e8ca2fca15/6024787cf13a6d4c0c258342/Escalation_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "347098",
+              "filename": "Escalation_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-02-16T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "737ee5de-dd32-5718-b900-2aa916d30afc",
+            "uid": "bltf5b97461d251a61e",
+            "title": "VALORANT Patch Notes 2.02",
+            "description": "Running accuracy changes for rifles, Competitive system shifts, and needed bug fixes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-02/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta923df634a37558e/60136e8d0839e910126d85fd/Cypher_Killjoy_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "353915",
+              "filename": "Cypher_Killjoy_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-02-02T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "9555a614-aca7-5efa-96d4-1b39ae192474",
+            "uid": "blt1f440667eee352e0",
+            "title": "Competitive Changes: 2.02 and what's next",
+            "description": "An in-depth look at the Competitive changes today and the rest of Episode 2.",
+            "url": {
+              "url": "/news/game-updates/competitive-changes-2-02-and-what-s-next/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1d2a7274a3b014ff/6014bb9827b1080f843720a9/New_Ranked_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "354071",
+              "filename": "New_Ranked_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-02-02T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "a0094baa-671f-53d8-9e36-927963156237",
+            "uid": "bltcc9db6222a1bd52b",
+            "title": "VALORANT Patch Notes 2.01",
+            "description": "Adjusted AFK restrictions, light Jett touches, and a major changes to Split.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-01/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte8e71c14f8e0d24f/6001e92b533a1810075f3aaa/Reyna_Jett_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "336759",
+              "filename": "Reyna_Jett_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-01-20T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "2aa90b38-1fc7-5f93-b71f-4c2b803daed1",
+            "uid": "blt3c5eff5e26b29336",
+            "title": "VALORANT Episode 2 Act I Competitive Changes",
+            "description": "Rank rewards, how does the Rank Rating work, and more on this EP2 Competitive breakdown.",
+            "url": {
+              "url": "/news/game-updates/valorant-episode-2-act-i-competitive-changes/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3bb0fd62d11c767b/5ff7d4ceb80b0a1a68fa2e63/New_Ranked.jpeg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "442811",
+              "filename": "New_Ranked.jpeg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-01-12T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "ace81bd2-4307-5bb6-b9bb-34dccbef8208",
+            "uid": "bltda58bfd741047b81",
+            "title": "VALORANT Patch Notes 2.0",
+            "description": "New Episode, fresh updates. Yoru, Controller balance, a slew of Competitive changes and more.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-2-0/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt242f77c7339e4326/5ff7c806e7fdff751b795eb6/Omen_Yoru_1920x1080v2.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "308112",
+              "filename": "Omen_Yoru_1920x1080v2.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2021-01-12T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "0655415c-024d-5e08-be98-c253786eebb7",
+            "uid": "blt2c657868b1952159",
+            "title": "VALORANT Patch Notes 1.14",
+            "description": "Icebox gets its first overhaul, Sage’s Barrier Orb gets love, and lots of observer tool additions. Also, Night.Market and Snowball Fight!",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-14/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta22b83124d6b0a52/5fc9d93e4a4abb73ff7a3cd3/Killjoy_Brimstone_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "362444",
+              "filename": "Killjoy_Brimstone_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-12-08T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "03f05a05-14af-55e6-9b6a-028d34fde3a2",
+            "uid": "blt60361e7c8f846138",
+            "title": "Wield your fate // Ion Skin Reveal Trailer - VALORANT",
+            "description": "Humanity’s last hope is in your hands.",
+            "url": {
+              "url": "/news/game-updates/wield-your-fate-ion-skin-reveal-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=xOFv16NbvCU",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1589d22b6b6f404a/5fa4685865bdd35303dffc67/ION_Banner.jpg",
+              "dimension": { "height": 1440, "width": 2560 },
+              "content_type": "image/jpeg",
+              "file_size": "496735",
+              "filename": "ION_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-11-10T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "69779714-59de-5d5a-8daf-88540f043378",
+            "uid": "blt4a8a73c146aae4f6",
+            "title": "VALORANT Patch Notes 1.12",
+            "description": "Light day at the office this time around. Expect updates to the Observer, social panel and bug fixes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-12/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfe2019d1c7a93e8c/5fa49b9f4e40cf53001f4304/Reyna_Jett_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "440146",
+              "filename": "Reyna_Jett_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-11-10T14:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "d7268d8e-01e4-58eb-b4cc-3fab9d023c1f",
+            "uid": "blt46b01442fc2b88ac",
+            "title": "VALORANT Patch Notes 1.11",
+            "description": "This patch Skye enters the fray, Initiators and most Sentinel Agents get balanced, and the Economy ruleset is tuned.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-11/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdd83f4c98dc432f0/5f934d6f6178a96454529e79/Cypher_Breach_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "451559",
+              "filename": "Cypher_Breach_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-10-27T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "3cc42098-1215-5677-9aa5-3d9d72e27863",
+            "uid": "blt983ce28783ecf0c9",
+            "title": "Act III Battlepass Trailer - VALORANT",
+            "description": "Welcome to the Act III Battlepass.",
+            "url": {
+              "url": "/news/game-updates/act-iii-battlepass-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=kKX-EynwAXg",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt64d48a164ccbd10b/5f80e0786ffd1b42dc429e0e/Battlepass_Ep1_Act3_Trailer_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1980 },
+              "content_type": "image/jpeg",
+              "file_size": "315870",
+              "filename": "Battlepass_Ep1_Act3_Trailer_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-10-13T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "f7cb3cb9-43b9-5dbb-b51c-84367249ca68",
+            "uid": "blte8e3546a63639943",
+            "title": "VALORANT Patch Notes 1.10",
+            "description": "Icebox arrives to Unrated, Deathmatch improvements, and Competitive introduces server, select and tighter matchmaking.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-10/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt16cfad463a56b48d/5f80f0363bf9954172cf5fa1/VAL_Patch_1_10_Notes_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "283368",
+              "filename": "VAL_Patch_1_10_Notes_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-10-13T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "08b9831a-4d0d-5fc7-9be1-9bcd3b397fe9",
+            "uid": "blt0680e6bf248c9907",
+            "title": "Skye // Agent Reveal Trailer - VALORANT",
+            "description": "Skye arrives Patch 1.11.",
+            "url": {
+              "url": "/news/game-updates/skye-agent-reveal-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=C3QTyMXi-WE",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7bbfa5336443f104/5f7cd6dcbe6df80f0910c4d1/SKYE_Thumbnail_EN_Reveal.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "482211",
+              "filename": "SKYE_Thumbnail_EN_Reveal.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-10-08T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "27fc1263-a48d-58f9-abea-cb61e90fcd96",
+            "uid": "bltb473625c27a53a8c",
+            "title": "What’s New in VALORANT Act III",
+            "description": "All the Act III releases and why you’re getting a new map early.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-act-iii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt77afed23a3653287/5f7b7c44f11ee70e9e14d89b/act-3-article-banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "562292",
+              "filename": "act-3-article-banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-10-07T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "566b3ef0-0140-527b-a425-737aec7831c7",
+            "uid": "blt1ef2daaf421618e3",
+            "title": "Enter the Icebox // Map Reveal - VALORANT",
+            "description": "Dig your enemies a powdery grave in VALORANT’s new map, Icebox. Take on the tundra when Icebox drops with Act III.",
+            "url": {
+              "url": "/news/game-updates/enter-the-icebox-map-reveal-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=EB4vFzY3MWc",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt847d9b91f097b3ce/5f784719e69fa40ef3181d51/PORT20_Map_Reveal_Trailer_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "403407",
+              "filename": "PORT20_Map_Reveal_Trailer_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-10-06T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "bd290356-a752-535e-8af4-254b3b8ff739",
+            "uid": "blt1191b5259cc9aab4",
+            "title": "Act III Competitive Changes",
+            "description": "Game Director Joe Ziegler recruits the help of David Cole to map out the Competitive updates in Act III.",
+            "url": { "url": "/news/game-updates/act-iii-competitive-changes/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0af15fc6eb451033/5f776804f11ee70e9e14cfe2/New_Ranked_banner.jpeg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "442811",
+              "filename": "New_Ranked_banner.jpeg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-10-05T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "8db42c7b-cd86-52c0-bdf1-3a2e8e4d85fc",
+            "uid": "blte654f9c4acb57e1e",
+            "title": "VALORANT Patch Notes 1.09",
+            "description": "The Operator gets a makeover, Brimstone, Reyna, Omen, Viper, and Jett each get healthy updates.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-09/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc4f569a8a5020021/5f6d294394533468847816f9/Killjoy_Brimstone_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "413824",
+              "filename": "Killjoy_Brimstone_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-09-29T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "fd8d9882-c460-585c-8bfa-cb619655b00e",
+            "uid": "bltefab304e02d74fb8",
+            "title": "VALORANT Patch Notes 1.08",
+            "description": "Better map queue variety, Raze Blast Pack tuning, and a Guardian buff all in this round of patch notes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-08/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63f9a25c52b964a7/5f5bf59e69d060498b8e50bc/Cypher_Breach_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "360787",
+              "filename": "Cypher_Breach_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-09-15T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "fca08ee9-f61e-558d-85d8-628a67f1a005",
+            "uid": "blt7cb86f3baef4571a",
+            "title": "VALORANT Patch Notes 1.07",
+            "description": "You get the first Killjoy update, remake option, shotguns updates, and hit registration improvements.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-07/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt151d36a55efbe9d6/5f4997e00341654a3a76f9cb/Raze_Sova_1920x1080.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "517685",
+              "filename": "Raze_Sova_1920x1080.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-09-01T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "314a00ce-d6c1-54f1-998b-1fa70fe75aea",
+            "uid": "blt5875897b3afd3074",
+            "title": "VALORANT Patch Notes 1.06",
+            "description": "Back from staycation, we have updates to all shotguns and some bug fixes",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-06/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb79e3460dea51334/5f3c41e8abb6922b67514b51/Patch_notes_RZE_RYN.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "383474",
+              "filename": "Patch_notes_RZE_RYN.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-08-20T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "ea043b92-4fde-5b6b-9568-c05e7a228b33",
+            "uid": "bltd5679ec69f42adc0",
+            "title": "What’s New in VALORANT Act II",
+            "description": "Fresh Battlepass, Killjoy arrives, Glitchpop, and a bevy of new ish.",
+            "url": {
+              "url": "/news/game-updates/what-s-new-in-valorant-act-ii/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc715389a4c5beb3c/5f267b17c9ec57071816c08b/Act_2_Article_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "98921",
+              "filename": "Act_2_Article_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-08-05T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "fb441790-667c-5744-82ca-cd6893bb6678",
+            "uid": "blt352861111d66d8e1",
+            "title": "ACT II BATTLEPASS TRAILER - VALORANT",
+            "description": "Play VALORANT during Act II, earn XP and progress toward unlocking cosmetic items for your collection.",
+            "url": {
+              "url": "/news/game-updates/act-ii-battlepass-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=OgNEnFJNiGE",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte3fb1385cee58aa6/5f23a7c11fe0e07eae810768/PIXL20_Battlepass_Trailer_Thumbnail_v001_v3.jpg",
+              "dimension": { "height": 1266, "width": 2251 },
+              "content_type": "image/jpeg",
+              "file_size": "357639",
+              "filename": "PIXL20_Battlepass_Trailer_Thumbnail_v001_v3.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-08-04T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "724e90ed-dd25-531e-a433-8dc37f58ff44",
+            "uid": "bltb5be6d1eeb18b627",
+            "title": "VALORANT Patch Notes 1.05",
+            "description": "A slew of new in this patch: Killjoy, Act Ranks, Deathmatch (beta), and balance for Raze.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-05/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt04df45cd1ec40a30/5f24b4d59751e50576cb9196/Patch_Notes_Header_Raze_KJ.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "406641",
+              "filename": "Patch_Notes_Header_Raze_KJ.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-08-04T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "93cbe1f4-3b08-58d4-9b76-c890c800a242",
+            "uid": "bltdcc25202b2d619a3",
+            "title": "Introducing Killjoy // New Agent Reveal Trailer - VALORANT",
+            "description": "Killjoy arrives in VALORANT Act II.",
+            "url": {
+              "url": "/news/game-updates/introducing-killjoy-new-agent-reveal-trailer-valorant/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=ua-iIRQDY8g",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt42d5be1b6e4d9c26/5f1b4a7ee366a67b5fb684c5/KillJoy_Thumbnail_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "392935",
+              "filename": "KillJoy_Thumbnail_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-07-29T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "8b8a190d-0292-5fd9-9c4a-65a877763db8",
+            "uid": "blt14884a2a2d25ad37",
+            "title": "VALORANT Patch Notes 1.04",
+            "description": "You get a Classic overhaul as well as balance for Viper, Brimstone, Raze and Cypher.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-04/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt25054eafcf2a9ceb/5f152851aa875d7f39eaeebd/Patch_Notes_BRM_VIP.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "200129",
+              "filename": "Patch_Notes_BRM_VIP.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-07-21T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "fa2c0de5-5991-55df-b8c3-b178a85c32e3",
+            "uid": "blt04db79fb2a78ae25",
+            "title": "VALORANT Patch Notes 1.03",
+            "description": "Guardian updates, Surrender Option, and a collection of QoL updates coming at you.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-03/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf5e12ded92f7722d/5efd3c47b52fb75925ee3774/Patch_Notes_BRC_SGE.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "229484",
+              "filename": "Patch_Notes_BRC_SGE.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-07-07T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "b3269517-edce-55e4-ae66-0ee35e7cf827",
+            "uid": "bltfdd37fc3c56816c5",
+            "title": "VALORANT Patch Notes 1.02",
+            "description": "Competitive goes live! Also, a fresh Menu UI, surrender option, and balance for Viper, Jett, and Reyna.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-02/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfb9695f5f911c9a4/5eebff02146cc4629e1ad6e8/Patch_Notes_PHX_SV0.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "205852",
+              "filename": "Patch_Notes_PHX_SV0.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-06-23T15:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "12f13376-2c4a-538d-89cc-ce129ff01d39",
+            "uid": "bltaf2849fcf68b8f8f",
+            "title": "VALORANT Patch Notes 1.01",
+            "description": "New Orbs for Spike Rush, performance improvements, and bug fixes for Reyna and Cypher round out the notes.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-01/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd3a2cc87399d5974/5ed97ff3cfec112ba2620e76/Patch_Notes_CYP_OMN.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "215976",
+              "filename": "Patch_Notes_CYP_OMN.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-06-09T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "01181440-3e18-5111-b94b-cb3c525a8dfa",
+            "uid": "blt4f2d878e048cd3b8",
+            "title": "Spike Rush & New Game Modes",
+            "description": "Join Darkhorse and excal on a journey through Spike Rush and what to expect for new VALORANT game modes.",
+            "url": { "url": "/news/game-updates/spike-rush-new-game-modes/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5c61c09f83869436/5ed87fe3444d25730a19e013/Spike_Rush_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "275120",
+              "filename": "Spike_Rush_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-06-04T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "513d4855-a74e-5080-b425-d1b608ba10d0",
+            "uid": "blt8cb911be7c8f1558",
+            "title": "What is the VALORANT Battlepass?",
+            "description": "David Cole, progression systems designer, talks VALORANT Act I Battlepass and how to unlock every item.",
+            "url": {
+              "url": "/news/game-updates/what-is-the-valorant-battlepass/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt04bbaf78fa3a52dd/5ed06387859dd01a6268936f/KEY_ART_HEADER_1.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "512676",
+              "filename": "KEY_ART_HEADER_1.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-06-02T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "2c4ca3ba-9f68-580a-bccb-3513fd699dbc",
+            "uid": "blt74aedce5b774f22e",
+            "title": "Episode 1: Ignition // Official Launch Gameplay Trailer",
+            "description": "We put in work.  Watch the full official VALORANT launch gameplay trailer set on our newest map: Ascent.",
+            "url": {
+              "url": "/news/game-updates/episode-1-ignition-official-launch-gameplay-trailer/"
+            },
+            "external_link": "https://www.youtube.com/watch?v=IhhjcB2ZjIM",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3c6685d5efd09c4a/5ed0a39cca91024f9da7dfa9/VALORANT_Launch_Gameplay_Trailer_Banner.jpg",
+              "dimension": { "height": 720, "width": 1280 },
+              "content_type": "image/jpeg",
+              "file_size": "275239",
+              "filename": "VALORANT_Launch_Gameplay_Trailer_Banner.jpg"
+            },
+            "article_type": "External Link",
+            "date": "2020-06-02T13:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e77520ff-5892-5368-8158-66c08993f723",
+            "uid": "bltd776ad3728f462d5",
+            "title": "VALORANT Patch Notes 1.0",
+            "description": "New launch stuff! Also, major balance updates for 5 Agents, and  performance and hit registration improvements.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-1-0/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcb65be6b210cc2e4/5ed0002698ef630b1d7c0e7c/Patch_Notes_banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "207672",
+              "filename": "Patch_Notes_banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-06-01T23:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e5837e3a-17a4-5389-aa39-acdade5daf98",
+            "uid": "blt89886db1d2f64650",
+            "title": "04: On Peeker’s Advantage & Ranked",
+            "description": "New week, new us, new topics.",
+            "url": {
+              "url": "/news/game-updates/04-on-peeker-s-advantage-ranked/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc77a279465a18bc0/5ebb584e0538f630430adc4a/Peekers_Advantage_and_Ranked_Banner_v2.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "376526",
+              "filename": "Peekers_Advantage_and_Ranked_Banner_v2.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-05-13T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "1090309f-6ef0-55bc-9217-e6b3595d8514",
+            "uid": "blt638e45e39687f1d2",
+            "title": "VALORANT Patch Notes 0.50",
+            "description": "Credit cap, ability cost adjustments, as well as important Agent and weapon updates are part of this beefy patch.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-0-50/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt90b2ee87b4d40684/5eb5171844bf8261a04d84ce/Patch_Notes_BRM_VIP_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "200129",
+              "filename": "Patch_Notes_BRM_VIP_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-05-12T16:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "c2223942-0550-5eff-b989-155240981fac",
+            "uid": "bltdbc919f294b239ef",
+            "title": "03: On in-game player behavior and server infrastructure",
+            "description": "We’re back this week with some commitments on player behavior and what’s going on with the servers.",
+            "url": {
+              "url": "/news/game-updates/03-on-in-game-player-behavior-and-server-infrastructure/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc21b1ef2430e8ca0/5eb1db693e5c864bda8a4ecb/Player_Behavior_Server_Infrastructure_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "213663",
+              "filename": "Player_Behavior_Server_Infrastructure_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-05-06T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "5e04cbc9-d2b8-53a5-accc-f8dcca5d5089",
+            "uid": "blt75cff50b422ad406",
+            "title": "VALORANT Patch Notes 0.49",
+            "description": "QoL improvements for Phoenix, Observer mode, the Spike, and Competitive mode.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-0-49/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4a83eaf1df52ff0f/5ea5f19845643457e22869da/Patch_Notes_49_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "301008",
+              "filename": "Patch_Notes_49_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-04-28T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "a72abf73-d876-5aa8-9121-df06040ddcee",
+            "uid": "bltd2ecd39911a3920b",
+            "title": "02: On Vanguard errors/solutions, gun skins, and agent progression",
+            "description": "Week two of our weekly updates, with today’s topics: Vanguard errors/solutions, gun skins, and agent progression.",
+            "url": {
+              "url": "/news/game-updates/02-on-vanguard-errors-solutions-gun-skins-and-agent-progression/"
+            },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt211606cd86782c5e/5ea8199ed4728b0b149190b9/Vanguard_and_Agent_Progression_Banner_v1.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "418934",
+              "filename": "Vanguard_and_Agent_Progression_Banner_v1.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-04-28T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e78d616e-15d0-5e0e-92d4-97404c5225e0",
+            "uid": "bltf99c684600579ca2",
+            "title": "VALORANT Patch Notes 0.47+",
+            "description": "These lightweight patch notes bridge the alpha and closed beta.",
+            "url": { "url": "/news/game-updates/valorant-patch-notes-0-47/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4a83eaf1df52ff0f/5ea5f19845643457e22869da/Patch_Notes_49_Banner.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "301008",
+              "filename": "Patch_Notes_49_Banner.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-04-21T18:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "cbc9b711-71aa-56ef-ac0c-798e07d9a684",
+            "uid": "blt49928ad66ad6fc98",
+            "title": "01: On Raze and anti-cheat",
+            "description": "The first of our weekly status updates on the VALORANT Closed Beta, today featuring Raze and anti-cheat.",
+            "url": { "url": "/news/game-updates/01-on-raze-and-anti-cheat/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26bbdc103e8254eb/5e9de03c6a64bf2a22a109ad/APRIL_21_header.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "484129",
+              "filename": "APRIL_21_header.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-04-21T17:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          },
+          {
+            "id": "e5bf9472-3fed-558e-a744-8e9508e1964c",
+            "uid": "blt626c87a31e31188c",
+            "title": "VALORANT Asset Kit",
+            "description": "Check out the VALORANT closed beta asset kit and stream overlay!",
+            "url": { "url": "/news/game-updates/valorant-asset-kit/" },
+            "external_link": "",
+            "banner": {
+              "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb46f22a7f4f994bd/5e8d001c6477c30c9dd7b5af/VAL_Overlay_Banner_v2.jpg",
+              "dimension": { "height": 1080, "width": 1920 },
+              "content_type": "image/jpeg",
+              "file_size": "516823",
+              "filename": "VAL_Overlay_Banner_v2.jpg"
+            },
+            "article_type": "Normal article",
+            "date": "2020-04-08T20:00:00.000Z",
+            "category": [{ "title": "Game Updates" }]
+          }
+        ]
+      },
+      "ogData": {
+        "id": "edd1936c-c815-5a79-99b7-a17df93eb180",
+        "opengraph": {
+          "description": "Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast",
+          "title": "VALORANT: Riot Games’ competitive 5v5 character-based tactical shooter",
+          "image": {
+            "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f072336e3f3ade4/63096d7be4a8c30e088e7720/Valorant_2022_E5A2_PlayVALORANT_ContentStackThumbnail_1200x625_MB01.png"
+          }
+        },
+        "twitter": {
+          "description": "Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Learn about VALORANT and its stylish cast",
+          "title": "VALORANT: Riot Games’ competitive 5v5 character-based tactical shooter",
+          "image": {
+            "url": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f072336e3f3ade4/63096d7be4a8c30e088e7720/Valorant_2022_E5A2_PlayVALORANT_ContentStackThumbnail_1200x625_MB01.png"
+          },
+          "site": "@PlayValorant"
+        }
+      },
+      "environment": "live",
+      "locale": "en_US",
+      "language": "en-us",
+      "originalPath": "/news/game-updates",
+      "bcp47locale": "en-us",
+      "localizedRoutes": {
+        "agents": "agents",
+        "news": "news",
+        "maps": "maps",
+        "media": "media",
+        "arsenal": "arsenal",
+        "specs": "specs",
+        "download": "download",
+        "pbe": "pbe",
+        "pbe-download": "pbe-download"
+      },
+      "i18n": {
+        "language": "en-us",
+        "languages": [
+          "ar-ae",
+          "de-de",
+          "en-us",
+          "en-gb",
+          "es-mx",
+          "es-es",
+          "fr-fr",
+          "id-id",
+          "it-it",
+          "ja-jp",
+          "ko-kr",
+          "pl-pl",
+          "pt-br",
+          "ru-ru",
+          "th-th",
+          "tr-tr",
+          "vi-vn",
+          "zh-tw",
+          "en-sg"
+        ],
+        "defaultLanguage": "en-us",
+        "generateDefaultLanguagePage": true,
+        "routed": true,
+        "originalPath": "/news/game-updates/",
+        "path": "/en-us/news/game-updates/"
+      }
+    }
+  },
+  "staticQueryHashes": ["1376855364", "436846274"]
+}
